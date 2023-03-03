@@ -46,6 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionDivider />
       <br/>
+      
       <SectionTitle>About Me</SectionTitle>
       <SectionText>My career in web development, I learned various technologies such as HTML, CSS, and JavaScript. 
         It is also essential to have knowledge of server-side programming languages such as PHP or Python and database management systems such as MySQL. 

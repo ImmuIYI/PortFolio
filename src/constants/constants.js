@@ -22,8 +22,8 @@ export const projects = [
     description: "This WebSite is like youTube, we can search any videos, channel names and there will be an side bar it will contain shortcut key words. To build this we used RapidAPI and it is an REACT.js Based Website, And with Advance CSS.",
       image: '/images/logo.png',
       tags: ['REACT.js', 'RapidAPI'],
-    source: 'https://github.com/ImmuIYI/ImmuTube',
-    visit: 'https://immtube.netlify.app/',
+    source: 'https://immtube.netlify.app/',
+    visit: 'https://github.com/ImmuIYI/ImmuTube',
     id: 2,
   },
   /*{
